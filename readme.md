@@ -1,6 +1,7 @@
 # Business React Project
+{this SERVER goes with: "React-Project" repository}
 
-This is a simple Node.js Express server that provides several endpoints for managing appointments and user login.
+This is a Node.js Express server that provides several endpoints for managing appointments and user login.
 
 ## Getting Started
 
